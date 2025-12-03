@@ -1,4 +1,4 @@
-const Fruit = require("../models/fruit.js");
+const Fruit = require("./models/Fruit.js");
 
 // Index Route - Grabbing all from FruityAPI Data
 const index = (req, res) => {
